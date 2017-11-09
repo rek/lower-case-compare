@@ -1,0 +1,24 @@
+{
+  "name": "lower-case-compare",
+  "version": "1.0.0",
+  "description": "Compare two strings in lowercase",
+  "main": "lower-case-compare.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rek/lower-case-compare.git"
+  },
+  "keywords": [
+    "lower",
+    "case",
+    "compare"
+  ],
+  "author": "Adam Tombleson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rek/lower-case-compare/issues"
+  },
+  "homepage": "https://github.com/rek/lower-case-compare#readme"
+}
