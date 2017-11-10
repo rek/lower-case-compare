@@ -19,6 +19,10 @@ import lowerCaseCompare from 'lower-case-compare'
 console.log('Are the same:', lowerCaseCompare('TEST', 'test'))
 ```
 
+## Notes
+
+There is an AMD version here too if you need that.
+
 ## License
 
 MIT

@@ -11,4 +11,4 @@ define([], function() {
 	return function(string, string2) {
 		return string.toLowerCase() === string2.toLowerCase()
 	}
-}
+})
