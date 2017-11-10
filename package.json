@@ -1,6 +1,6 @@
 {
   "name": "lower-case-compare",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Compare two strings in lowercase",
   "main": "lower-case-compare.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "keywords": [
     "lower",
     "case",
+    "string",
     "compare"
   ],
   "author": "Adam Tombleson",
