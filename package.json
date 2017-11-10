@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/rek/lower-case-compare/issues"
   },
-  "homepage": "https://github.com/rek/lower-case-compare#readme"
+  "homepage": "https://github.com/rek/lower-case-compare#readme",
+  "dependencies": {
+    "lower-case": "^1.1.4"
+  }
 }
