@@ -13,6 +13,14 @@ Compare two strings in lower case
 yarn add lower-case-compare
 ```
 
+## Usage
+
+```
+import lowerCaseCompare from 'lower-case-compare'
+
+console.log('Are the same:', lowerCaseCompare('TEST', 'test'))
+```
+
 ## License
 
 MIT
